@@ -4,7 +4,7 @@ public class Hello{
 
     for(int i=1;i<=10;i++){
 
-        System.out.println("Hello To World Of Java"+i);
+        System.out.println("Hello To World Of the Java"+i);
 
        }
 
